@@ -2,7 +2,7 @@
 
 This repository provides the official implementation of MedChain.
 
-<img src="assets/tisear_figure.pdf">
+<img src="assets/teaser_fig.png">
 
 <b>MedChain: Bridging the Gap Between LLM Agents and Clinical Practice through Interactive Sequential Benchmarking</b> <br/>
 [Jie Liu](https://scholar.google.com/citations?hl=zh-CN&user=k05bkIEAAAAJ)<sup>1*</sup>, [Wenxuan Wang](https://scholar.google.com/citations?user=4v5x0bUAAAAJ&hl=en)<sup>2*</sup>, Zizhan Ma<sup>2</sup>, Guolin Huang<sup>3</sup>, SU Yihang<sup>2</sup>, <br/> [Kao-Jung Chang](https://scholar.google.com/citations?user=ywIXJmEAAAAJ&hl=zh-TW)<sup>4,5</sup>, [Wenting Chen](https://scholar.google.com/citations?user=3dtKW_8AAAAJ&hl=zh-CN)<sup>1</sup>, [Haoliang Li](https://scholar.google.com/citations?user=1xioat8AAAAJ&hl=zh-CN)<sup>1</sup>, [Linlin Shen](https://scholar.google.com.hk/citations?user=AZ_y9HgAAAAJ&hl=zh-CN)<sup>3</sup>, [Michael Lyu](https://scholar.google.com/citations?user=uQnBgK0AAAAJ&hl=en)<sup>2</sup>
@@ -16,8 +16,8 @@ This repository provides the official implementation of MedChain.
 
 
 ## Todo
-- [] Dataset release
-- [] Code release
+- [ ] Dataset release
+- [ ] Code release
 
 ## Citation
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
