@@ -160,7 +160,7 @@ pyairports=2.1.1=pypi_0
 pyarrow=17.0.0=pypi_0
 pyasn1=0.6.0=pypi_0
 pyasn1-modules=0.4.0=pypi_0
-pyautogen=0.3.1=pypi_0
+ag2=0.3.1=pypi_0
 pycountry=24.6.1=pypi_0
 pycparser=2.22=pypi_0
 pydantic=2.10.6=pypi_0
