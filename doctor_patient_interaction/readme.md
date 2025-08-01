@@ -1,0 +1,1 @@
+The `doctor_patient_interaction` file presents a detailed process of doctor-patient interaction. By inputting the correct LLM API interface and running the `wenzhen_main.py` script, you can achieve this. The remaining scripts are for extracting specified information and calculating the IoU value.
