@@ -53,8 +53,8 @@ To address the challenges of MedChain, the authors propose **MedChain-Agent**, a
    Diagnosis：           python task4_diagnosis.py
    Treatment：           python task5_treatment.py
    ```
-
-2. You can locate the core workflow code for **MedChain-Agent**, **MedCase-RAG**, and the feedback mechanism in the `main.py` file, and run tests to evaluate MedChain-Agent.
+The "doctor_patient_interaction" file presents a detailed process of doctor-patient interaction. By inputting the correct LLM API interface and running the wenzhen_main.py script, you can achieve this. The remaining scripts are for extracting specified information and calculating the IoU value.
+3. You can locate the core workflow code for **MedChain-Agent**, **MedCase-RAG**, and the feedback mechanism in the `main.py` file, and run tests to evaluate MedChain-Agent.
 
    ```python
    python main.py
