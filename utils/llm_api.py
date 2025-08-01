@@ -92,8 +92,8 @@ def img_api(img_path, user_input):
 #     #     base_url='http://0.0.0.0:23333/v1'
 #     # )
 #     client = OpenAI(
-#         api_key="sk-nBJedi9bIfecjGPrutPTChuTcAOkQgPhsXPPMqhc9GyjnRjy",
-#         base_url="https://api.chatanywhere.tech/v1"
+#         api_key="......",
+#         base_url="......"
 #     )
 #     # model_name = client.models.list().data[0].id
 #     response = client.chat.completions.create(
@@ -112,8 +112,8 @@ def img_api(img_path, user_input):
 
 # def img_api(img_path, user_input):
 #     client = OpenAI(
-#         api_key="sk-nBJedi9bIfecjGPrutPTChuTcAOkQgPhsXPPMqhc9GyjnRjy",
-#         base_url="https://api.chatanywhere.tech/v1"
+#         api_key="......",
+#         base_url="........"
 #     )
 #     model_name = "gpt-4o-mini"
 
@@ -157,8 +157,8 @@ def img_api(img_path, user_input):
 
 def llm_embedding(text):
     client = OpenAI(
-        api_key="sk-nBJedi9bIfecjGPrutPTChuTcAOkQgPhsXPPMqhc9GyjnRjy",
-        base_url="https://api.chatanywhere.tech/v1"
+        api_key=".......",
+        base_url="......."
     )
     response = client.embeddings.create(
         input=text,
